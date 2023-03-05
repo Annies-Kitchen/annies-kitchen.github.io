@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="755889f3-906c-41a6-860d-a8e0121ec392" name="Changes" comment="" />
+    <list default="true" id="755889f3-906c-41a6-860d-a8e0121ec392" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/braised_chicken.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/braised_chicken.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/charsiuL.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/charsiuL.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/curry.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/curry.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/curry_puffs2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/curry_puffs2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/five_spice.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/five_spice.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/hainanese.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/hainanese.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/nasi_lemak.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/nasi_lemak.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sambal_squid.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/sambal_squid.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/satay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/satay.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/spicy_shrimp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/spicy_shrimp.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/tandoori_chicken.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/tandoori_chicken.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/wonton_mee.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/wonton_mee.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/wonton_soup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/wonton_soup.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/zongzi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/zongzi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
